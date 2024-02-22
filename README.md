@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Ahmet MISIR<br>
 A developer from Turkey<br>
-I like writing programs that don't need compiling...
+I like writing programs that no need to compile...
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
