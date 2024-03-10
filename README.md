@@ -21,3 +21,5 @@ I like writing programs that no need to compile...
 
 [![](https://visitcount.itsvg.in/api?id=makinahmet&icon=0&color=0)](https://visitcount.itsvg.in)
 
+https://makinahmet.github.io/Etkili-Kod-Yazma-Teknikleri/
+https://makinahmet.github.io/abmcss.github.io/
