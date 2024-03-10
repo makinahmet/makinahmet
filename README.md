@@ -3,6 +3,9 @@ Hi, I'm Ahmet MISIR<br>
 A developer from Turkey<br>
 I like writing programs that no need to compile...
 
+Coding notes : https://makinahmet.github.io/Etkili-Kod-Yazma-Teknikleri/<br />
+CSS Library : https://makinahmet.github.io/abmcss.github.io/
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,5 +24,4 @@ I like writing programs that no need to compile...
 
 [![](https://visitcount.itsvg.in/api?id=makinahmet&icon=0&color=0)](https://visitcount.itsvg.in)
 
-https://makinahmet.github.io/Etkili-Kod-Yazma-Teknikleri/<br />
-https://makinahmet.github.io/abmcss.github.io/
+
