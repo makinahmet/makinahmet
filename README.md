@@ -5,6 +5,7 @@ I like writing programs that no need to compile...
 
 Coding notes : https://makinahmet.github.io/Etkili-Kod-Yazma-Teknikleri/<br />
 CSS Library : https://makinahmet.github.io/abmcss.github.io/
+Trading Project : www.tradeintegra.com
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
