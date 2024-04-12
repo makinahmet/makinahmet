@@ -3,9 +3,9 @@ Hi, I'm Ahmet MISIR<br>
 A developer from Turkey<br>
 I like writing programs that no need to compile...
 
-Coding notes : https://makinahmet.github.io/Etkili-Kod-Yazma-Teknikleri/<br />
-CSS Library : https://makinahmet.github.io/abmcss.github.io/<br />
 Trading Project : www.tradeintegra.com (Only chart library used. Pure HTML, CSS, JAVASCRIPT and PHP)
+CSS Library : https://makinahmet.github.io/abmcss.github.io/<br />
+Coding notes : https://makinahmet.github.io/Etkili-Kod-Yazma-Teknikleri/<br />
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
