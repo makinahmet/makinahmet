@@ -10,9 +10,8 @@ Financial Indicators : https://makinahmet.github.io/trading-indicators/<br />
 Coding notes : https://makinahmet.github.io/Etkili-Kod-Yazma-Teknikleri/<br />
 
 # 💻 Tech Stack:
-https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
 ![React](https://img.shields.io/badge/material-%2320232a.svg?style=for-the-badge&logo=material&logoColor=%2361DAFB)
-![Material](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Material]([https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white))
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
