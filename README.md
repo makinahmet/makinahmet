@@ -3,10 +3,8 @@ Hi, I'm Ahmet MISIR<br>
 A developer from Turkey<br>
 I like writing programs that no need to compile...
 
-Trading Project : www.tradeintegra.com (Only chart library used. Pure HTML, CSS, JAVASCRIPT and PHP)<br />
 A Butique Project : www.raandnanna.com (HTML, TAILWIND and PHP)<br />
 CSS Library : https://makinahmet.github.io/abmcss.github.io/<br />
-Financial Indicators : https://makinahmet.github.io/trading-indicators/<br />
 Coding notes : https://makinahmet.github.io/Etkili-Kod-Yazma-Teknikleri/<br />
 
 # 💻 Tech Stack:
