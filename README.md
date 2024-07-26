@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: GAME DEVELOPER
 Hi, I'm Ahmet MISIR<br>
 A game developer from Turkey<br>
 
